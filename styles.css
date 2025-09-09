@@ -24,7 +24,7 @@ body {
   margin-bottom: 10px;
   padding-bottom: 2px;
   padding-top: 2px;
-  border-right: 16px solid;  
+  border-right: 16px solid #007566;  
 }
 
 aside {
@@ -35,7 +35,7 @@ aside {
   margin-left: 20px;
   margin-bottom: 20px;
   line-height: 1.3;
-  border-right: 16px solid #444467;
+  border-right: 16px solid #589A8D;
   padding-right: 10px;
   height: 125px;
   margin-top: -10px;
@@ -75,14 +75,14 @@ p{
 }
 
 section {
-  background-color: #008001;
-  border: 3px solid #008001;
+  background-color: #FACF;
+  border: 3px solid #FACF;
   background-color: #FFFFED;
   padding: 15px;
   margin: 20px 0;
   font-size: 0.95em;
   line-height: 1.4;
-  border-left: 40px solid #008001;
+  border-left: 40px solid #FACF;
   text-align: justify;
 }
 
